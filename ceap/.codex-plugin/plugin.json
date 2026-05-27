@@ -1,0 +1,35 @@
+{
+  "name": "ceap",
+  "version": "0.1.0",
+  "description": "Enterprise agentic engineering workflows for Codex.",
+  "author": {
+    "name": "CEAP"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "agentic-engineering",
+    "enterprise",
+    "governance",
+    "multi-agent",
+    "quality-engineering"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CEAP",
+    "shortDescription": "Enterprise agentic engineering workflows for Codex.",
+    "longDescription": "CEAP adds structured Codex workflows for ticket-to-code orchestration, repository context analysis, quality engineering, security governance, multi-agent planning, enterprise memory, release readiness, and regulated engineering environments.",
+    "developerName": "CEAP",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Review",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Analyze this ticket and create an implementation plan.",
+      "Review this change for CEAP governance risks.",
+      "Build a multi-agent workflow for this incident."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
