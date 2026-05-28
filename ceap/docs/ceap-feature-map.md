@@ -2,6 +2,8 @@
 
 This document converts the original CEAP feature description into plugin-operational domains.
 
+For AI-specific differentiation, MVP sequencing, trust controls, and measurable proof metrics, see `ai-ki-usps.md`.
+
 ## Core Engineering
 
 - Ticket-to-code orchestration
@@ -155,3 +157,26 @@ This document converts the original CEAP feature description into plugin-operati
 - Stability analysis
 - Technical debt reduction
 - MDR, ISO, FDA, SOP, audit, compliance, regulated development, D365, ERP, enterprise governance, multi-repository control, secure isolated execution, revision-safe change tracking, release approval, policy orchestration, global organization control, integration monitoring, and quality-management integration
+
+## AI USP Layer
+
+- AI Impact Twin for pre-implementation enterprise impact simulation
+- AI Regulatory Co-Pilot for MDR, ISO, FDA, SOP, validation, and audit impact classification
+- AI Review Board Before Pull Request for shift-left architecture, security, QA, compliance, and release review
+- Engineering Memory With Citations for source-backed AI recommendations
+- AI Change Risk File for durable PR and release risk evidence
+- Autonomous Fix With Proof for reproducible AI repair workflows
+- AI Process Mining For Engineering Work for automation discovery from real workflows
+- Policy-Bound AI Agents for governed enterprise autonomy
+- Predictive Review Routing for impact-aware reviewer selection
+- AI Release Negotiator for decision-ready release scenarios
+- AI Engineering Risk Market for organization-specific change risk prediction
+- AI Architecture Drift Detector for continuous architecture conformance
+- AI Compliance Gap Simulator for missing audit and release evidence detection
+- AI Test Debt Investor for risk-prioritized test investment
+- AI Migration Commander for controlled modernization programs
+- AI Incident Memory Loop for incident-to-prevention workflows
+- AI Requirements Contradiction Detector for pre-coding requirement conflict detection
+- AI Data Flow Privacy Guardian for privacy-by-design engineering checks
+- AI DevEx Friction Radar for platform and workflow improvement discovery
+- AI Contract Guardian for API, event, schema, ERP, and D365 contract stability
