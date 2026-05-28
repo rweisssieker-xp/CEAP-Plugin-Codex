@@ -6,7 +6,7 @@ This documentation set describes the CEAP Codex plugin in US English.
 
 - [User Guide](user-guide.md): How to use CEAP workflows in Codex.
 - [MVP Roadmap](mvp-roadmap.md): Recommended implementation sequence.
-- [AI USP Backlog](ai-ki-usps.md): The ten AI differentiators and their proof metrics.
+- [AI USP Backlog](ai-ki-usps.md): The CEAP AI differentiators and their proof metrics.
 
 ## Product And Architecture
 

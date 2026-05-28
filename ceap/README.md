@@ -24,7 +24,7 @@ The plugin is designed for enterprise software teams that need AI assistance wit
 - `ceap-quality-governance`: Test strategy, security review, compliance validation, audit evidence, and regulated delivery controls.
 - `ceap-enterprise-context`: Enterprise context aggregation, engineering memory, knowledge graphs, integrations, and workflow observation.
 - `ceap-agent-operations`: Multi-agent orchestration, human-in-the-loop operations, observability, incident response, and autonomous engineering boundaries.
-- `ceap-ai-usp-engine`: AI product differentiation and implementation workflows for the ten CEAP AI USPs.
+- `ceap-ai-usp-engine`: AI product differentiation and implementation workflows for the CEAP AI USP portfolio.
 
 ## Primary MVP
 
