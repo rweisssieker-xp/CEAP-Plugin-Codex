@@ -1,28 +1,28 @@
-# CEAP Repository Documentation
+# CEAP Documentation Index
 
-This repository-level documentation points to the complete plugin documentation under [`../ceap/docs/`](../ceap/docs/).
+This documentation set describes the CEAP Codex plugin in US English.
 
-## Core Documents
+## Start Here
 
-- [Repository README](../README.md)
-- [Plugin README](../ceap/README.md)
-- [Plugin Documentation Index](../ceap/docs/index.md)
+- [User Guide](user-guide.md): How to use CEAP workflows in Codex.
+- [MVP Roadmap](mvp-roadmap.md): Recommended implementation sequence.
+- [AI USP Backlog](ai-ki-usps.md): The CEAP AI differentiators and their proof metrics.
 
-## Product Documentation
+## Product And Architecture
 
-- [Feature Map](../ceap/docs/ceap-feature-map.md)
-- [AI USP Backlog](../ceap/docs/ai-ki-usps.md)
-- [MVP Roadmap](../ceap/docs/mvp-roadmap.md)
-- [Architecture](../ceap/docs/architecture.md)
-- [Integration and Data Model](../ceap/docs/integration-data-model.md)
+- [Feature Map](ceap-feature-map.md): Full product capability map.
+- [Architecture](architecture.md): Conceptual platform architecture and workflow model.
+- [Integration and Data Model](integration-data-model.md): Source systems, data objects, and minimum schemas.
 
-## Operating Documentation
+## Trust, Delivery, And Validation
 
-- [User Guide](../ceap/docs/user-guide.md)
-- [Governance and Security](../ceap/docs/governance-security.md)
-- [Validation Guide](../ceap/docs/validation-guide.md)
+- [Governance and Security](governance-security.md): Security model, policy-bound agents, privacy controls, and regulated delivery.
+- [Validation Guide](validation-guide.md): How to validate plugin structure, documentation quality, and MVP readiness.
 
-## Plugin Source
+## Skill Reference
 
-- [Plugin Manifest](../ceap/.codex-plugin/plugin.json)
-- [Plugin Skills](../ceap/skills/)
+- `ceap-engineering-orchestrator`
+- `ceap-quality-governance`
+- `ceap-enterprise-context`
+- `ceap-agent-operations`
+- `ceap-ai-usp-engine`

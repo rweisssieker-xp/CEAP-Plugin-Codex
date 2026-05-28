@@ -1,0 +1,36 @@
+{
+  "name": "ceap",
+  "version": "0.1.0",
+  "description": "Enterprise AI agentic engineering workflows for Codex.",
+  "author": {
+    "name": "CEAP"
+  },
+  "license": "Proprietary",
+  "keywords": [
+    "agentic-engineering",
+    "ai-ki",
+    "enterprise",
+    "governance",
+    "multi-agent",
+    "quality-engineering"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "CEAP",
+    "shortDescription": "Enterprise AI engineering workflows with auditability and policy control.",
+    "longDescription": "CEAP adds structured Codex workflows for AI impact simulation, regulated ticket-to-code evidence packs, policy-bound agents, repository context analysis, quality engineering, security governance, multi-agent planning, enterprise memory, release readiness, and regulated engineering environments.",
+    "developerName": "CEAP",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Review",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Create a PR evidence pack for this ticket.",
+      "Run an AI impact twin analysis for this change.",
+      "Design policy-bound agents for this workflow."
+    ],
+    "brandColor": "#2563EB"
+  }
+}
